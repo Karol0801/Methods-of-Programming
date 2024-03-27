@@ -1,4 +1,3 @@
-// Karol Markowicz - grupa nr 4
 import java.util.Scanner;
 
 // Program sklada sie z trzech glownych klas (pomijajac klase Source), na ktorych wykonywane sa operacje
