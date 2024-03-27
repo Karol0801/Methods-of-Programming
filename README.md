@@ -1,6 +1,6 @@
 # Methods of Programming
 
-This repository contains my programs for "Methods of Programming" course at Jagiellonian University in the academic year 2022/2023. 
+This repository contains my work for "Methods of Programming" course at Jagiellonian University during the academic year 2022/2023. 
 
 Throughout this course, the primary objective was to introduce students to classical algorithms and fundamental data structures. Below is a short list detailing the algorithms or data structures covered in the solutions:
 
